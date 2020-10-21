@@ -1,0 +1,50 @@
+{
+    "connections": {
+        "plc-write": {
+            "outputDataPath": "/var/lib/aion/Data/control-jtekt-plc-w_1",
+            "metadata":{
+                "command": "23",
+                "arrayNo": "1102",
+                "expire_time": 1000,
+                "data": [{
+                    "ArrayNo": "1102",
+                    "Word": "0000000000000101"
+                },{
+                    "ArrayNo": "1103",
+                    "Value": 689
+                },{
+                    "ArrayNo": "1104",
+                    "Value": 1
+                },{
+                    "ArrayNo": "1105",
+                    "Value": 1
+                },{
+                    "ArrayNo": "1106",
+                    "Value": 1
+                },{
+                    "ArrayNo": "1107",
+                    "Value": 1
+                },{
+                    "ArrayNo": "1108",
+                    "Value": 1
+                },{
+                    "ArrayNo": "1109",
+                    "Value": 0
+                },{
+                    "ArrayNo": "110a",
+                    "Value": 0
+                },{
+                    "ArrayNo": "110b",
+                    "Value": 0
+                },{
+                    "ArrayNo": "110c",
+                    "Value": 0
+                },{
+                    "ArrayNo": "110d",
+                    "Value": 0
+                }]
+            }
+        }
+    }
+}
+
